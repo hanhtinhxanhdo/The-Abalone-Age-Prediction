@@ -19,5 +19,5 @@ The Abalone Age Prediction project is a machine learning solution designed to pr
 - Provided valuable insights into the factors influencing abalone age for aquaculture and ecological applications.
 
 ### Acknowledgments
--Acknowledge the importance of accurate age estimation in aquaculture and ecological research.
+- Acknowledge the importance of accurate age estimation in aquaculture and ecological research.
 - Appreciate contributions from the open-source machine learning community and datasets used for model training.
